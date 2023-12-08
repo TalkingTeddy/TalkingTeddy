@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalkingTeddy
 - 🤡 My main goal to finish all games that have more than 2 sequels including but not limited to Assassins Creed, Watch Dogs, Wolfestien (is that how it's pronounced?).
 - 🧩 My secondary goal is to create Gorgeous User Interfaces and Seamless User Experience Designs for Clients, Implement Designs as Front-End to create `Websites`, `Mobile Applications`, `Softwares`. Also I thrive when writing **Back-End Code** because that's how I started.
-- 🎨 Find my ultimate UI / UX Designs that puts Da Vinci's of the world to shame at https://dribbble.com/talkingteddy
-- 🥽 I also freelance at : fiverr.com/talkingteddy
+- 🎨 Find my ultimate UI / UX Designs that puts Da Vinci's of the world to shame at www.dribbble.com/talkingteddy
+- 🥽 I also freelance at : www.fiverr.com/talkingteddy
 - ✉ Want to get in touch with me directly? Email : talkingteddyyy@gmail.com
