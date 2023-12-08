@@ -2,4 +2,3 @@
 - 🤡 I’m interested in mainly developing application and penetrating stuff and hopefully create a tool that would be widely used for pentesting
 - 📫 You can reach me through 
 - ✉ Email : talkingteddyyy@gmail.com
-- 
